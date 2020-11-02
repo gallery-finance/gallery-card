@@ -1,0 +1,18 @@
+{
+    "title": "Jack Ma or Ant?",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "DP"
+        },
+        "description": {
+            "type": "string",
+            "description": "Is Jack Ma or Ant?"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://www.dropbox.com/s/xu73no48oh4iuxx/Jack%20Ma%20or%20Ant.jpg?dl=0"
+        }
+    }
+}
