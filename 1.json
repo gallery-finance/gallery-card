@@ -1,0 +1,18 @@
+{
+    "title": "undefined",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "sky"
+        },
+        "description": {
+            "type": "string",
+            "description": "undefined"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://tse1-mm.cn.bing.net/th/id/OIP.fq3C-Dodg9sC0xlCNuB4IQHaLH?w=204&h=306&c=7&o=5&pid=1.7"
+        }
+    }
+}
