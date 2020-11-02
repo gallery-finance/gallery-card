@@ -1,0 +1,19 @@
+{
+    "title": "Jack Ma ",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Ann"
+        },
+        "description": {
+            "type": "string",
+            "description": "Respect to Alibaba"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://user-images.githubusercontent.com/66761189/97375652-50b51c00-18f6-11eb-8037-0fd0c0336deb.jpg"
+        }
+    }
+}
+Hooks.js:46 
