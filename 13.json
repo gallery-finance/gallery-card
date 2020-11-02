@@ -1,0 +1,18 @@
+{
+    "title": "Satoshi",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Meng"
+        },
+        "description": {
+            "type": "string",
+            "description": ""
+        },
+        "image": {
+            "type": "string",
+            "description": "https://i.ibb.co/ZXWqTNR/satoshi.png"
+        }
+    }
+}
