@@ -1,0 +1,22 @@
+{
+    "title": "Kobe Forever",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Lucas Guzman"
+        },
+        "description": {
+            "type": "string",
+            "description": "Kobe dunks into immortality.
+
+Gif loop  by Lucas guzman
+https://www.instagram.com/lucasguzman3d/
+https://twitter.com/lucasguzman3d"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://github.com/gallery-finance/assets/blob/master/kobe_nft1.gif"
+        }
+    }
+}
