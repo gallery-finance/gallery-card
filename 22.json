@@ -1,0 +1,18 @@
+{
+    "title": "tech",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Cindy"
+        },
+        "description": {
+            "type": "string",
+            "description": "."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://user-images.githubusercontent.com/72795371/97184969-78af5d00-17da-11eb-9f44-cecbb4bfc1b3.jpg"
+        }
+    }
+}
