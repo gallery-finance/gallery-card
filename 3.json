@@ -1,0 +1,18 @@
+{
+    "title": "Fly",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Lucas"
+        },
+        "description": {
+            "type": "string",
+            "description": ""
+        },
+        "image": {
+            "type": "string",
+            "description": "https://raw.githubusercontent.com/gallery-finance/assets/master/CareiCai_NFT.gif"
+        }
+    }
+}
