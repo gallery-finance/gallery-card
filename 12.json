@@ -1,0 +1,18 @@
+{
+    "title": "Jack Ma",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Emily"
+        },
+        "description": {
+            "type": "string",
+            "description": ""
+        },
+        "image": {
+            "type": "string",
+            "description": "https://user-images.githubusercontent.com/3787876/97511441-1022d480-19c2-11eb-81fa-d23886d34ed8.jpg"
+        }
+    }
+}
