@@ -1,0 +1,18 @@
+{
+    "title": "President",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Lala"
+        },
+        "description": {
+            "type": "string",
+            "description": ""
+        },
+        "image": {
+            "type": "string",
+            "description": "https://user-images.githubusercontent.com/3787876/97511431-0d27e400-19c2-11eb-9be9-59dde8c2f383.jpg"
+        }
+    }
+}
