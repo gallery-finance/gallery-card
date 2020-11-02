@@ -1,0 +1,19 @@
+{
+    "title": "CZ",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Buffalo"
+        },
+        "description": {
+            "type": "string",
+            "description": ""
+        },
+        "image": {
+            "type": "string",
+            "description": "https://i.ibb.co/4RMDPXw/CZ.jpg"
+        }
+    }
+}
+Hooks.js:46 
