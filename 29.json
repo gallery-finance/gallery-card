@@ -1,0 +1,18 @@
+{
+    "title": "DaHongfei",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Stacy"
+        },
+        "description": {
+            "type": "string",
+            "description": ""
+        },
+        "image": {
+            "type": "string",
+            "description": "https://i.ibb.co/k0xjXKm/Dahongfei.jpg"
+        }
+    }
+}
