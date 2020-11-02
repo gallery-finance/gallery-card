@@ -1,0 +1,18 @@
+{
+    "title": "CZ king",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "lala"
+        },
+        "description": {
+            "type": "string",
+            "description": ""
+        },
+        "image": {
+            "type": "string",
+            "description": "https://user-images.githubusercontent.com/3787876/97511435-0ef1a780-19c2-11eb-8a39-bb7e7505fafb.jpg"
+        }
+    }
+}
