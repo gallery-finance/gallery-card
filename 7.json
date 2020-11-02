@@ -1,0 +1,18 @@
+{
+    "title": "Trump",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Lucas"
+        },
+        "description": {
+            "type": "string",
+            "description": ""
+        },
+        "image": {
+            "type": "string",
+            "description": "https://github.com/gallery-finance/assets/raw/master/NFT_trump_3mokeys.gif"
+        }
+    }
+}
