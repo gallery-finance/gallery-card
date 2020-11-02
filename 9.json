@@ -1,0 +1,18 @@
+{
+    "title": "Trump on Plate",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Stacy B"
+        },
+        "description": {
+            "type": "string",
+            "description": ""
+        },
+        "image": {
+            "type": "string",
+            "description": "https://i.ibb.co/pnyRWXx/Trump.jpg"
+        }
+    }
+}
