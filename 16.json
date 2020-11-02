@@ -1,0 +1,18 @@
+{
+    "title": "JayNFT",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Hector"
+        },
+        "description": {
+            "type": "string",
+            "description": "Original Hand Drawing"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://i.ibb.co/j6yYx9J/JayNFT.jpg"
+        }
+    }
+}
