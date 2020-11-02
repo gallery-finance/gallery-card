@@ -1,0 +1,18 @@
+{
+    "title": "JayNFT",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Hector"
+        },
+        "description": {
+            "type": "string",
+            "description": "Hand drawing Jay Chow"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://flic.kr/p/2jZuXEN"
+        }
+    }
+}
