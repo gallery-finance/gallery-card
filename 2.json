@@ -1,0 +1,18 @@
+{
+    "title": "流氓",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Cindy"
+        },
+        "description": {
+            "type": "string",
+            "description": "haha"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://user-images.githubusercontent.com/72795371/97184987-7cdb7a80-17da-11eb-9f60-decd817d5764.jpg"
+        }
+    }
+}
