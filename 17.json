@@ -1,0 +1,18 @@
+{
+    "title": "Jay Chou or Namewee?!",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "DP"
+        },
+        "description": {
+            "type": "string",
+            "description": "Is he Jay Chou or Namewee?"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://bit.ly/3ejDNbZ"
+        }
+    }
+}
