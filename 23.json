@@ -1,0 +1,18 @@
+{
+    "title": "Elon Future",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "xiaoyu"
+        },
+        "description": {
+            "type": "string",
+            "description": "Mars"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://user-images.githubusercontent.com/66761189/97375647-4e52c200-18f6-11eb-9a82-d4493b759609.jpg"
+        }
+    }
+}
