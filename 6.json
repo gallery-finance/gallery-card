@@ -1,0 +1,18 @@
+{
+    "title": "KobeNFT",
+    "type": "art",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Ye"
+        },
+        "description": {
+            "type": "string",
+            "description": "engraving"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://i.ibb.co/m0WgwGJ/Kobe2.jpg"
+        }
+    }
+}
